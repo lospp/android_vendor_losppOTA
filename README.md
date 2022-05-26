@@ -1,4 +1,4 @@
-# android_vendor_lospp
+# android_vendor_losppOTA
 # lospp OTA repo
 In order for a device to be officially supported by lospp, OTA information needs to be added.
 Please refer to the following "Readme" to get started
